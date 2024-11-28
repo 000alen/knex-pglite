@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { PGlite } from '@electric-sql/pglite';
-import { Knex } from 'knex';
+import { Knex } from '@000alen/knex';
 import { PGClient } from './pgclient';
 // eslint-disable-next-line @typescript-eslint/no-require-imports
 const Client_PG: typeof PGClient = require('knex/lib/dialects/postgres/index.js');
