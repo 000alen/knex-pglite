@@ -18,7 +18,7 @@ npm install knex-pglite
 ## Usage
 
 ```ts
-import { knex } from "knex";
+import { knex } from "@000alen/knex";
 import ClientPgLite from "knex-pglite";
 
 const instance = knex({

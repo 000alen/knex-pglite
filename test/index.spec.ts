@@ -1,4 +1,4 @@
-import Knex from "knex";
+import Knex from "@000alen/knex";
 import ClientPgLite from "../src/index";
 import { describe, it, expect, beforeAll } from "vitest";
 

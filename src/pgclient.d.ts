@@ -1,4 +1,4 @@
-import { Knex } from "knex";
+import { Knex } from "@000alen/knex";
 
 declare class PGClient extends Knex.Client {
     constructor(config: Knex.Config);
