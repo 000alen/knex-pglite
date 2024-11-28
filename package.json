@@ -1,6 +1,6 @@
 {
   "name": "@000alen/knex-pglite",
-  "version": "0.9.9",
+  "version": "0.9.10",
   "description": "PGlite Dialect for Knex",
   "main": "dist/index.js",
   "scripts": {
@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "@electric-sql/pglite": "^0.2.14",
-    "@000alen/knex": "3.1.0"
+    "@000alen/knex": "3.1.1"
   }
 }
